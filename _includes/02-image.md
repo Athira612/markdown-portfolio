@@ -1,5 +1,1 @@
-This image
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-check out
+[GitHub](http://github.com)
